@@ -3,9 +3,10 @@
 *.rc
 *.py
 resource.h
+*.manifest
 *.png
-!preview.png
-!logo.png
+!/preview.png
+!/logo.png
 
 *.exe
 *.obj
@@ -14,6 +15,7 @@ resource.h
 *.pdb
 *.ilk
 *.ico
+*.bak
 
 .vs/
 *.user
